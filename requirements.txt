@@ -15,5 +15,6 @@ schedule==1.2.1
 soupsieve==2.5
 tgCrypto==1.2.5
 urllib3==2.1.0
+lxml==4.9.3
 python_flipkart_scraper
 python-amazon-scraper
