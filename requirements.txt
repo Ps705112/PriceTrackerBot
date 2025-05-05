@@ -1,5 +1,4 @@
-﻿beautifulsoup4==4.12.2
-bs4==0.0.1
+beautifulsoup4==4.12.2
 certifi==2023.11.17
 charset-normalizer==3.3.2
 dnspython==2.4.2
@@ -16,5 +15,4 @@ soupsieve==2.5
 tgCrypto==1.2.5
 urllib3==2.1.0
 lxml==4.9.3
-python_flipkart_scraper
-python-amazon-scraper
+setuptools>=65.5.0
