@@ -17,4 +17,3 @@ tgCrypto==1.2.5
 urllib3==2.1.0
 python_flipkart_scraper
 python-amazon-scraper
-lxml==4.9.4 --only-binary lxml
